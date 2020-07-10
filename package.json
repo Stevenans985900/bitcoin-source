@@ -52,7 +52,7 @@
     "cashaddrjs": "^0.2.9",
     "elliptic": "https://github.com/indutny/elliptic.git#8a6bb9",
     "hash.js": "^1.1.7",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.16",
     "randombytes": "^2.1.0",
     "unorm": "^1.4.1"
   },
